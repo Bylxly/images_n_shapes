@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Build Artefacts
+dist/
+build/
+.tmp/
+.vscode/
+
+# OS generierte Dateien
+.DS_Store
+Thumbs.db
+
+# WordPress spezifische Dateien
+*.min.css
+*.min.js
+.sass-cache/
+.idea/
+*.bak
+
+# Sensitive Dateien
+wp-config.php
+wp-config-*.php
+
+# Backup und generierte Dateien
+*.sql
+*.sqlite
+*.env
+*.local
+
+# IDEs und Editoren
+/.vscode/
+/.idea/
+*.sublime-workspace
+*.sublime-project
+
+# PHPUnit
+phpunit.xml
+phpunit.xml.dist
+
+# Sonstige temporäre Dateien
+*.swp
+*.lock
+*.backup
+*.tmp
+*.temp
