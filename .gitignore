@@ -12,7 +12,7 @@ yarn-error.log*
 
 # Build Artefacts
 dist/
-# build/
+build/
 .tmp/
 .vscode/
 
